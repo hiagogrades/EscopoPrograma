@@ -13,7 +13,10 @@ namespace EscopoPrograma
         //Método principal (Sempre será executado primeiro)
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Utilizando constantes
+            const int IDADE_MINIMA = 18;
+
+            Console.WriteLine(IDADE_MINIMA);
         }
     }
 }

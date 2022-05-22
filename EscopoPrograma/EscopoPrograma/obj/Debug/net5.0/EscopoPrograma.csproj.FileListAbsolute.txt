@@ -1,0 +1,16 @@
+D:\dev\EscopoPrograma\EscopoPrograma\bin\Debug\net5.0\EscopoPrograma.exe
+D:\dev\EscopoPrograma\EscopoPrograma\bin\Debug\net5.0\EscopoPrograma.deps.json
+D:\dev\EscopoPrograma\EscopoPrograma\bin\Debug\net5.0\EscopoPrograma.runtimeconfig.json
+D:\dev\EscopoPrograma\EscopoPrograma\bin\Debug\net5.0\EscopoPrograma.runtimeconfig.dev.json
+D:\dev\EscopoPrograma\EscopoPrograma\bin\Debug\net5.0\EscopoPrograma.dll
+D:\dev\EscopoPrograma\EscopoPrograma\bin\Debug\net5.0\EscopoPrograma.pdb
+D:\dev\EscopoPrograma\EscopoPrograma\obj\Debug\net5.0\EscopoPrograma.csproj.AssemblyReference.cache
+D:\dev\EscopoPrograma\EscopoPrograma\obj\Debug\net5.0\EscopoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\EscopoPrograma\EscopoPrograma\obj\Debug\net5.0\EscopoPrograma.AssemblyInfoInputs.cache
+D:\dev\EscopoPrograma\EscopoPrograma\obj\Debug\net5.0\EscopoPrograma.AssemblyInfo.cs
+D:\dev\EscopoPrograma\EscopoPrograma\obj\Debug\net5.0\EscopoPrograma.csproj.CoreCompileInputs.cache
+D:\dev\EscopoPrograma\EscopoPrograma\obj\Debug\net5.0\EscopoPrograma.dll
+D:\dev\EscopoPrograma\EscopoPrograma\obj\Debug\net5.0\refint\EscopoPrograma.dll
+D:\dev\EscopoPrograma\EscopoPrograma\obj\Debug\net5.0\EscopoPrograma.pdb
+D:\dev\EscopoPrograma\EscopoPrograma\obj\Debug\net5.0\EscopoPrograma.genruntimeconfig.cache
+D:\dev\EscopoPrograma\EscopoPrograma\obj\Debug\net5.0\ref\EscopoPrograma.dll
