@@ -2,6 +2,7 @@
 
 //Importações
 using System;
+using EscopoPrograma.Teste; //Importando o namespace da classe Teste
 
 //Divisões lógicas
 namespace EscopoPrograma
