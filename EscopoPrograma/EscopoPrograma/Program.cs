@@ -8,15 +8,15 @@ using EscopoPrograma.Teste; //Importando o namespace da classe Teste
 namespace EscopoPrograma
 {
     //Programa
-    internal class Program
+    internal class program
     {
-        //Método principal (Sempre será executado primeiro)
-        static void Main(string[] args)
+        //método principal (sempre será executado primeiro)
+        static void main(string[] args)
         {
-            //Utilizando constantes
-            const int IDADE_MINIMA = 18;
+            //utilizando constantes
+            const int idade_minima = 18;
 
-            Console.WriteLine(IDADE_MINIMA);
+            Console.WriteLine(idade_minima);
         }
     }
 }
